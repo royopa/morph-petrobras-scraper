@@ -24,6 +24,8 @@
 # called "data".
 
 import pandas as pd
+import scraperwiki
+
 
 # dados da petrobrás a partir de 2018-09-18
 url = 'http://www.petrobras.com.br/lumis/api/rest/pricegraphnovo/pricedata?n=4'
