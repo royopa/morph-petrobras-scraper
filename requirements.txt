@@ -9,4 +9,3 @@ lxml
 cssselect
 requests
 pandas
-urllib2
